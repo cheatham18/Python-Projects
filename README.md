@@ -1,2 +1,2 @@
 # Python-Projects
-This is a collection of projects using python in data frames. 
+This repository contains a series of projects manipulating, cleaning, transforming and analyzing dataframes using python. An overview of each project on the first line in each jupyter notebook. 
